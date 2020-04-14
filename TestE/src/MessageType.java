@@ -1,7 +1,7 @@
-package SocketGame;
+
 
 public class MessageType{
-    public static int GAME_REGISTER = 1;//游戏状态
+    public static int GAME_REGISTER = 1;//游戏状�??
     public static int GAME_END = 8;
     public static int GAME_START = 4;
     public static int GAME_QUIT = 2;
