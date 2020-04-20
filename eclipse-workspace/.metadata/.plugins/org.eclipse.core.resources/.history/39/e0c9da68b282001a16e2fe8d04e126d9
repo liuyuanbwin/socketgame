@@ -1,0 +1,7 @@
+package GuessNumber;
+
+public class ExClass {
+	public void name() {
+		System.err.println("name");
+	}
+}
